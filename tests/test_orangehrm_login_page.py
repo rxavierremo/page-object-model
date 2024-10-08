@@ -21,3 +21,4 @@ def test_login(driver):
     login_page.input_password("admin123")
     time.sleep(1)
     login_page.click_login()
+    time.sleep(1)
