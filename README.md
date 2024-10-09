@@ -4,5 +4,3 @@ This project consists of a simple script to login to the [OrangeHRM Demo](https:
 
 As I gain more skills in Test Automation, I have also successfully integrated this script using Jenkins.
 
-![image](https://github.com/user-attachments/assets/b67a6200-33c9-4b76-9fc4-2bdb486a63a4)
-
