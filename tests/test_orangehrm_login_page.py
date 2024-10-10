@@ -12,7 +12,7 @@ def driver():
     driver.implicitly_wait(10)
     yield driver
     driver.close()
-    driver.quit()
+    # driver.quit()
 
 def test_login(driver):
     login_page = LoginPage(driver)
